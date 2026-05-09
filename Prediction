@@ -1,0 +1,5 @@
+ai-trading-v2/
+│── app.py
+│── model.py
+│── storage.py
+│── requirements.txt
